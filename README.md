@@ -9,48 +9,48 @@ Designed and executed a comprehensive data analytics project on OLA ride data fo
 create database Ola; <br>
 use Ola;
 
-1. Retrieve all successful bookings: <br>
-Ans- select * from bookings <br>
+-- 1. Retrieve all successful bookings: <br>
+select * from bookings <br>
 where Booking_Status = 'Success';
 
-2. Find the average ride distance for each vehicle type:<br>
-Ans- select Vehicle_Type,avg(Ride_Distance) as avg_distance from bookings<br>
+-- 2. Find the average ride distance for each vehicle type:<br>
+select Vehicle_Type,avg(Ride_Distance) as avg_distance from bookings<br>
 group by Vehicle_Type;
 
 
-3. Get the total number of cancelled rides by customers:<br>
-Ans- select count(Booking_Status) as total_cancelled_rides_by_customers from bookings<br>
+-- 3. Get the total number of cancelled rides by customers:<br>
+select count(Booking_Status) as total_cancelled_rides_by_customers from bookings<br>
 where Booking_Status = 'Canceled by Customer';
 
-4. List the top 5 customers who booked the highest number of rides:<br>
-Ans- SELECT Customer_ID AS Customers, COUNT(Booking_ID) AS No_of_Rides<br>
+-- 4. List the top 5 customers who booked the highest number of rides:<br>
+SELECT Customer_ID AS Customers, COUNT(Booking_ID) AS No_of_Rides<br>
 FROM bookings<br>
 GROUP BY Customer_ID<br>
 ORDER BY No_of_Rides DESC<br>
 LIMIT 5;
 
-5. Get the number of rides cancelled by drivers due to personal and car-related issues:<br>
-Ans- select count(Canceled_Rides_by_Driver) from bookings<br>
+-- 5. Get the number of rides cancelled by drivers due to personal and car-related issues:<br>
+select count(Canceled_Rides_by_Driver) from bookings<br>
 where Canceled_Rides_by_Driver = 'Personal & Car related issue';
 
-6. Find the maximum and minimum driver ratings for Prime Sedan bookings:<br>
-Ans- select Vehicle_Type, max(Driver_Ratings), min(Driver_Ratings) from bookings<br>
+-- 6. Find the maximum and minimum driver ratings for Prime Sedan bookings:<br>
+select Vehicle_Type, max(Driver_Ratings), min(Driver_Ratings) from bookings<br>
 where Vehicle_Type = 'Prime Sedan'; 
 
-7. Retrieve all rides where payment was made using UPI:<br>
-Ans- select * from bookings<br>
+-- 7. Retrieve all rides where payment was made using UPI:<br>
+select * from bookings<br>
 where Payment_Method = 'UPI';
 
-8. Find the average customer rating per vehicle type:<br>
-Ans- select Vehicle_Type, avg(Customer_Rating) from bookings<br>
+-- 8. Find the average customer rating per vehicle type:<br>
+select Vehicle_Type, avg(Customer_Rating) from bookings<br>
 group by Vehicle_Type;
 
-9. Calculate the total booking value of rides completed successfully:<br>
-Ans- select sum(Booking_Value) as total_successful_ride_value from bookings<br>
+-- 9. Calculate the total booking value of rides completed successfully:<br>
+select sum(Booking_Value) as total_successful_ride_value from bookings<br>
 where Booking_Status = 'Success';
 
-10. List all incomplete rides along with the reason:<br>
-Ans- select Booking_ID, Incomplete_Rides_Reason from bookings <br>
+-- 10. List all incomplete rides along with the reason:<br>
+select Booking_ID, Incomplete_Rides_Reason from bookings <br>
 where Incomplete_Rides = 'Yes';
 
 🧮 SQL Queries <br> <a href="https://github.com/Koushik-2k25/Ola-Data-Analytics-Project/blob/main/Ola%20Rides%20Sql%20Projects.sql">View SQL Scripts</a>
