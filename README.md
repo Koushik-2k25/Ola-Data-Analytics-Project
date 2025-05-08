@@ -53,7 +53,7 @@ where Booking_Status = 'Success';
 Ans- select Booking_ID, Incomplete_Rides_Reason from bookings <br>
 where Incomplete_Rides = 'Yes';
 
-🧮 SQL Queries<a href="https://github.com/Koushik-2k25/Ola-Data-Analytics-Project/blob/main/Ola%20Rides%20Sql%20Projects.sql">View SQL Scripts</a>
+🧮 SQL Queries <br> <a href="https://github.com/Koushik-2k25/Ola-Data-Analytics-Project/blob/main/Ola%20Rides%20Sql%20Projects.sql">View SQL Scripts</a>
 
 ## Power BI Questions:
 1. Ride Volume Over Time
@@ -85,14 +85,15 @@ vehicle types on ppt.
 9. Customer Ratings Distribution: Cards visualizing the spread of customer ratings for different
 vehicle types on ppt.
 
-📊 Power BI Dashboard<a href="https://github.com/Koushik-2k25/Ola-Data-Analytics-Project/blob/main/Ola%20Rides%20Power%20BI%20Visualization.pbix">View Dashboard</a>
+📊 Power BI Dashboard <br> <a href="https://github.com/Koushik-2k25/Ola-Data-Analytics-Project/blob/main/Ola%20Rides%20Power%20BI%20Visualization.pbix">View Dashboard</a>
 
 ## Dashboard
-![Screenshot 2025-05-08 022211](https://github.com/user-attachments/assets/e333a9af-787f-4567-ab63-f29ab3a03329)
-![Screenshot 2025-05-08 024442](https://github.com/user-attachments/assets/bdd75190-3a4c-49ed-8423-ded3c866eb09)
-![Screenshot 2025-05-07 125115](https://github.com/user-attachments/assets/f6535d44-144e-466f-b5f5-3e126027310d)
-![Screenshot 2025-05-07 125223](https://github.com/user-attachments/assets/f43283cb-776e-467a-a00c-2250247858b0)
-![Screenshot 2025-05-07 125321](https://github.com/user-attachments/assets/7a6328b3-4dff-477f-81d4-17f846dfb837)
+![Dashboard_SS_1](https://github.com/user-attachments/assets/21061fbf-bd60-4aeb-a634-f39e7a490c4f)
+![Dashboard_SS_2](https://github.com/user-attachments/assets/16c6412d-43e1-43d0-b19a-91be6c4d350e)
+![Dashboard_SS_3](https://github.com/user-attachments/assets/c24ad87b-e9c9-4597-8833-cdab0924de50)
+![Dashboard_SS_4](https://github.com/user-attachments/assets/6b0118fb-5c88-4b8f-9257-293d22011c61)
+![Dashboard_SS_5](https://github.com/user-attachments/assets/c2a64f2a-47ac-4733-88f9-d8f1da5e7819)
+
 
 ## Project Insights
 - Identified peak ride volumes during weekends and match days, indicating strong demand fluctuations based on external events.
