@@ -80,13 +80,13 @@ where Incomplete_Rides = 'Yes';
 👉 **Power BI Dashboard** <br> <a href="https://github.com/Koushik-2k25/Ola-Data-Analytics-Project/blob/main/Ola%20Rides%20Power%20BI%20Visualization.pbix">View Dashboard</a>
 
 ## 📊 Dashboard
-<div style="display: flex; overflow-x: auto; gap: 10px;">
+<p align="center">
   <img src="![Dashboard_SS_1](https://github.com/user-attachments/assets/8431348d-6ff7-4a7c-9a29-6c8b89d9393b)" width="300"/>
   <img src="![Dashboard_SS_2](https://github.com/user-attachments/assets/99ea9913-33da-4c84-8c2e-aa6eadd53ea8)" width="300"/>
   <img src="![Dashboard_SS_3](https://github.com/user-attachments/assets/39bbceef-b4e9-4146-91c0-550dd87c5cbc)" width="300"/>
   <img src="![Dashboard_SS_4](https://github.com/user-attachments/assets/3ddff95d-a266-41a7-bc40-e3d23a38593e)" width="300"/>
   <img src="![Dashboard_SS_5](https://github.com/user-attachments/assets/03384284-c2c4-46f9-b86a-9094e53d05fb)" width="300"/>
-</div>
+</p>
 
 
 ## 💡 Project Insights
