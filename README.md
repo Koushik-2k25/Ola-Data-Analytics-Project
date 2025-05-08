@@ -81,11 +81,11 @@ where Incomplete_Rides = 'Yes';
 
 ## 📊 Dashboard
 <div style="display: flex; overflow-x: auto; gap: 10px;">
-  <img src=" ![Dashboard_SS_1](https://github.com/user-attachments/assets/21061fbf-bd60-4aeb-a634-f39e7a490c4f) width="300"/>
-  <img src=" ![Dashboard_SS_2](https://github.com/user-attachments/assets/16c6412d-43e1-43d0-b19a-91be6c4d350e) " width="300"/>
-  <img src=" ![Dashboard_SS_3](https://github.com/user-attachments/assets/c24ad87b-e9c9-4597-8833-cdab0924de50) " width="300"/>
-  <img src=" ![Dashboard_SS_4](https://github.com/user-attachments/assets/6b0118fb-5c88-4b8f-9257-293d22011c61) " width="300"/>
-  <img src=" ![Dashboard_SS_5](https://github.com/user-attachments/assets/c2a64f2a-47ac-4733-88f9-d8f1da5e7819) " width="300"/>
+  <img src="![Dashboard_SS_1](https://github.com/user-attachments/assets/8431348d-6ff7-4a7c-9a29-6c8b89d9393b)" width="300"/>
+  <img src="![Dashboard_SS_2](https://github.com/user-attachments/assets/99ea9913-33da-4c84-8c2e-aa6eadd53ea8)" width="300"/>
+  <img src="![Dashboard_SS_3](https://github.com/user-attachments/assets/39bbceef-b4e9-4146-91c0-550dd87c5cbc)" width="300"/>
+  <img src="![Dashboard_SS_4](https://github.com/user-attachments/assets/3ddff95d-a266-41a7-bc40-e3d23a38593e)" width="300"/>
+  <img src="![Dashboard_SS_5](https://github.com/user-attachments/assets/03384284-c2c4-46f9-b86a-9094e53d05fb)" width="300"/>
 </div>
 
 
