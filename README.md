@@ -3,7 +3,7 @@
 Designed and executed a comprehensive data analytics project on OLA ride data for Bengaluru city. Cleaned and transformed records in MS Excel, analyzed key business metrics using MySQL to address ride volume, cancellation trends, and customer-driver behavior. Developed interactive dashboards in Power BI to visualize booking patterns, revenue insights, and rating distributions. The project focused on generating actionable insights to improve customer satisfaction, optimize resource utilization, and enhance service reliability.
 
 ## Dataset used
-📈 <a href="https://github.com/Koushik-2k25/Ola-Data-Analytics-Project/blob/main/Ola_Rides_Bookings_Dataset.xlsx">Dataset</a>
+📈 <a href="https://github.com/Koushik-2k25/Ola-Data-Analytics-Project/blob/main/Ola%20Rides%20Bookings%20Dataset.xlsx">Dataset</a>
 
 ## SQL Questions & Answers
 create database Ola; <br>
@@ -85,7 +85,7 @@ vehicle types on ppt.
 9. Customer Ratings Distribution: Cards visualizing the spread of customer ratings for different
 vehicle types on ppt.
 
-📊 Power BI Dashboard<a href="https://github.com/Koushik-2k25/Ola-Data-Analytics-Project/blob/main/Ola%20Rides%20%E2%80%93%20Power%20BI%20Visualization.pbix">View Dashboard</a>
+📊 Power BI Dashboard<a href="https://github.com/Koushik-2k25/Ola-Data-Analytics-Project/blob/main/Ola%20Rides%20Power%20BI%20Visualization.pbix">View Dashboard</a>
 
 ## Dashboard
 ![Screenshot 2025-05-08 022211](https://github.com/user-attachments/assets/e333a9af-787f-4567-ab63-f29ab3a03329)
