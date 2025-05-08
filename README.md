@@ -84,13 +84,15 @@ where Incomplete_Rides = 'Yes';
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ca3ad00d-b2ee-4b2d-8fab-77ff33894e29" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/e2575830-6138-418d-9874-4e1cd5f97a32" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/ace25ed5-f942-4a2e-8530-30cf05b61892" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ca3ad00d-b2ee-4b2d-8fab-77ff33894e29" width="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e2575830-6138-418d-9874-4e1cd5f97a32" width="500"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ba8304a7-0f65-4df2-822e-59cff0a3b1ba" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/314a3c45-18bc-4c1c-94e6-19a160faeb16" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ace25ed5-f942-4a2e-8530-30cf05b61892" width="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ba8304a7-0f65-4df2-822e-59cff0a3b1ba" width="500"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/314a3c45-18bc-4c1c-94e6-19a160faeb16" width="500"/></td>
   </tr>
 </table>
 
