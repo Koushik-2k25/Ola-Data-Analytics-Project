@@ -80,13 +80,15 @@ where Incomplete_Rides = 'Yes';
 👉 **Power BI Dashboard** <br> <a href="https://github.com/Koushik-2k25/Ola-Data-Analytics-Project/blob/main/Ola%20Rides%20Power%20BI%20Visualization.pbix">View Dashboard</a>
 
 ## 📊 Dashboard
-![Dashboard_SS_1](https://github.com/user-attachments/assets/21061fbf-bd60-4aeb-a634-f39e7a490c4f)
-![Dashboard_SS_2](https://github.com/user-attachments/assets/16c6412d-43e1-43d0-b19a-91be6c4d350e)
-![Dashboard_SS_3](https://github.com/user-attachments/assets/c24ad87b-e9c9-4597-8833-cdab0924de50)
-![Dashboard_SS_4](https://github.com/user-attachments/assets/6b0118fb-5c88-4b8f-9257-293d22011c61)
-![Dashboard_SS_5](https://github.com/user-attachments/assets/c2a64f2a-47ac-4733-88f9-d8f1da5e7819)
+<div style="display: flex; overflow-x: auto; gap: 10px;">
+  <img src=" ![Dashboard_SS_1](https://github.com/user-attachments/assets/21061fbf-bd60-4aeb-a634-f39e7a490c4f) width="300"/>
+  <img src=" ![Dashboard_SS_2](https://github.com/user-attachments/assets/16c6412d-43e1-43d0-b19a-91be6c4d350e) " width="300"/>
+  <img src=" ![Dashboard_SS_3](https://github.com/user-attachments/assets/c24ad87b-e9c9-4597-8833-cdab0924de50) " width="300"/>
+  <img src=" ![Dashboard_SS_4](https://github.com/user-attachments/assets/6b0118fb-5c88-4b8f-9257-293d22011c61) " width="300"/>
+  <img src=" ![Dashboard_SS_5](https://github.com/user-attachments/assets/c2a64f2a-47ac-4733-88f9-d8f1da5e7819) " width="300"/>
+</div>
 
-  
+
 ## 💡 Project Insights
 - Identified peak ride volumes during weekends and match days, indicating strong demand fluctuations based on external events.
 - Detected that the majority of cancellations by customers were due to drivers not approaching the pickup point, highlighting the need for better driver-route alignment.
