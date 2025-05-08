@@ -79,7 +79,7 @@ where Incomplete_Rides = 'Yes';
 
 👉 **Power BI Dashboard** <br> <a href="https://github.com/Koushik-2k25/Ola-Data-Analytics-Project/blob/main/Ola%20Rides%20Power%20BI%20Visualization.pbix">View Dashboard</a>
 
-## 📊 Dashboard
+## 📊 Dashboard Slides
 <div align="center">
 
 <table>
